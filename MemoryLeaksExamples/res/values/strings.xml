@@ -1,0 +1,34 @@
+<resources>
+
+    <string name="app_name">Where is my memory?</string>
+    
+    <string name="example_brutal">Brutal example</string>
+    <string name="enable_sound">Enable sound</string>
+    <string name="enable_vibration">Enable vibration</string>
+    <string name="next">Next</string>
+    <string name="attack">Attack</string>
+    
+    <string name="example_warned">Warned by system</string>
+    <string name="open_dialog">Open dialog</string>
+    <string name="dialog">Dialog</string>
+    <string name="rotate_to_leak">Rotate the screen and see errors in the LogCat</string>
+    <string name="register_receiver">Register receiver</string>
+    
+    <string name="example_romain_drawable">Romain\'s drawable</string>
+    
+    <string name="example_inner_classes_part_1">Inner classes (part 1)</string>
+    <string name="example_inner_classes_part_2">Inner classes (part 2)</string>
+    <string name="example_inner_classes_part_3">Inner classes (part 3)</string>
+    <string name="add_data">Add data</string>
+    <string name="delayed_message">Delayed message</string>
+    <string name="delayed_message_also_bad">Delayed message (WeakRef)</string>
+    <string name="run_task_old_dialog">Run task (onCreateDialog)</string>
+    <string name="run_task_new_dialog">Run task (DialogFragment)</string>
+    <string name="async_return_message">Returned from AsyncTask</string>
+    <string name="ok">OK</string>
+    
+    <string name="example_using_webview">Using WebView</string>
+    
+    <string name="example_retain_nonconfiguration_instance">onRetainNonConf…</string>
+    
+</resources>
